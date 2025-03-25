@@ -20,7 +20,7 @@ width:100px;
 height:50px;
 width: 100%;
 background-size: cover;
-background-image: url(../image/amazon_logo.png);
+background-image: url(/amazon_logo.png);
 }
 .border{
 border: 1px solid transparent;
@@ -150,7 +150,7 @@ font-family:sans-serif;
         font-family: sans-serif;
     }
     .hero-section{
-        background-image: url(../image/heroimg.jpg);
+        background-image: url(/heroimg.jpg);
         background-size: cover;
         /* max-width: none; */
         height: 340px;
@@ -212,30 +212,30 @@ font-family:sans-serif;
         /* margin-right: 30px; */
     }
     .img0{
-        background-image: url(../image/prod1.jpg);
+        background-image: url(/prod1.jpg);
 
     }
     .img1{
-        background-image: url(../image/prod2.jpg);
+        background-image: url(/prod2.jpg);
     }
     
     .img2{
-     background-image: url(../image/prod3.jpg);   
+     background-image: url(/prod3.jpg);   
     }
     .img3{
-background-image: url(../image/prod4.jpg);
+background-image: url(/prod4.jpg);
     }
     .img4{
-        background-image: url(../image/prod5.jpg);
+        background-image: url(/prod5.jpg);
     }
     .img5{
-        background-image: url(../image/prod6.jpg);
+        background-image: url(/prod6.jpg);
     }
     .img6{
-        background-image: url(../image/prod8.jpg);
+        background-image: url(/prod8.jpg);
     }
     .img7{
-        background-image: url(../image/prod7.jpg);
+        background-image: url(/prod7.jpg);
     }
     .seemore a{
         text-decoration: none;
@@ -325,7 +325,7 @@ color: #f3f3f3;
     width:100px;
     height: 50px;
     background-size: cover;
-    background-image: url(../image/amazon_logo.png);
+    background-image: url(/amazon_logo.png);
 }
 .foot-panel4{
     background-color: #0f1111;
