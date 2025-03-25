@@ -19,7 +19,8 @@ The Amazon Clone project is a static web application that replicates the user in
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-   ```bas
+   ```bash
+   git clone https://github.com/yourusername/amazon-clone.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -35,8 +36,8 @@ To run this project locally, follow these steps:
 ## Screenshots
 Here are some screenshots of the Amazon Clone project:
 
-![Homepage](output/homepage.png)  <!-- Replace with the actual path to your screenshot -->
-![Product Section](output/product-section.png)  <!-- Replace with the actual path to your screenshot -->
+![Homepage](output/Screenshot%202025-03-25%20121005.png)  <!-- Replace with the actual path to your screenshot -->
+
 
 ## Challenges Faced
 - Maintaining design consistency across different sections.
